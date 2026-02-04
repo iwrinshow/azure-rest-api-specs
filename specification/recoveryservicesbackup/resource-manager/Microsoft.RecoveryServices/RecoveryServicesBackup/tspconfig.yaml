@@ -34,7 +34,6 @@ options:
     emitter-output-dir: "{output-dir}/{service-dir}/arm-recoveryservicesbackup"
     flavor: azure
     experimental-extensible-enums: true
-    isModularLibrary: true
     package-details:
       name: "@azure/arm-recoveryservicesbackup"
   "@azure-tools/typespec-go":
